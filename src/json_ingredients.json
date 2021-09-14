@@ -1,0 +1,95 @@
+{
+       "ingredients": [
+        {
+          "__v": 1,
+          "id": "1",
+          "identifier": "1papa",
+          "name": {
+            "label": "papA_@AnDinA"
+          },
+          "description": "Es un tubérculo comestible que se extrae de la planta herbácea americana Solanum tuberosum, de origen andino",
+          "type": {
+            "id": "1",
+            "name": "tubérculo"
+          },
+          "created_date": "2020-02-20",
+          "updated_date": "2020-02-20"
+        },
+        {
+          "__v": 1,
+          "id": "2",
+          "identifier": "2oca",
+          "name": {
+            "label": "OC%@A"
+          },
+          "description": "Es uno de los tubérculos típicos y más valiosos del Perú, junto a la patata, el olluco y la mashua",
+          "type": {
+            "id": "2",
+            "name": "tubérculo"
+          },
+          "created_date": "2020-02-20",
+          "updated_date": "2020-02-20"
+        },
+        {
+          "__v": 1,
+          "id": "3",
+          "identifier": "melloco3",
+          "name": {
+            "label": "olLUCo_O_me(lloco"
+          },
+          "description": "Este tubérculo cuenta, en diferentes proporciones, con agua, proteínas, almidón, carbohidratos, un poco de grasa, fibra cruda y azúcar",
+          "type": {
+            "id": "3",
+            "name": "tubérculo"
+          },
+          "created_date": "2020-02-20",
+          "updated_date": "2020-02-20"
+        },
+        {
+          "__v": 1,
+          "id": "4",
+          "identifier": "quinua4",
+          "name": {
+            "label": "quI@@nUa^"
+          },
+          "description": "Se trata de una semilla, pero se conoce y se clasifica como un grano integral. Es nativa de los Andes de Bolivia y Perú",
+          "type": {
+            "id": "4",
+            "name": "semilla"
+          },
+          "created_date": "2020-02-20",
+          "updated_date": "2020-02-20"
+        },
+        {
+          "__v": 1,
+          "id": "5",
+          "identifier": "uvilla5",
+          "name": {
+            "label": "AguA~y$man#to_O_UVILLA"
+          },
+          "description": "Es una fruta redonda, amarilla, dulce y pequeña. Se puede consumir sola, en almíbar, postres y con otras frutas dulces. Su estructura interna es similar a un tomate en miniatura",
+          "type": {
+            "id": "5",
+            "name": "fruta"
+          },
+          "created_date": "2020-02-20",
+          "updated_date": "2020-02-20"
+        },
+        {
+          "__v": 1,
+          "id": "6",
+          "identifier": "ayram6pu",
+          "name": {
+            "label": "ayRamPu"
+          },
+          "description": "Es un planta que crece en Cordillera de los Andes entre los 2,500 y 4,500 metros sobre el nivel del mar.",
+          "type": {
+            "id": "6",
+            "name": "fruta"
+          },
+          "created_date": "2020-02-20",
+          "updated_date": "2020-02-20"
+        }
+      ]
+   
+}

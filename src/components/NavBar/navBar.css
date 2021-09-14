@@ -1,0 +1,52 @@
+body{
+    color: grey;
+}
+h4{
+  margin-bottom: 0;
+}
+
+.nav-bar{
+    background-color: #f0f3f8;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
+
+ .nav-bar .row{
+ align-items: center ;
+}
+
+#add-recipe-icon{
+    padding-right: 0;
+    display: flex;
+    align-items: center ;
+}
+.fa-plus-circle{
+  padding-right: 10px;
+}
+
+#icon{
+    text-align: right;
+}
+
+@media (max-width: 425px) {
+    html {
+        font-size: 9px;
+      }
+  }
+  @media (min-width: 576px) {
+    html {
+      font-size: 15px;
+    }
+  }
+  @media (min-width: 992px) {
+    html {
+      font-size: 17px;
+    }
+  }
+  @media (min-width: 1200px) {
+    html {
+      font-size: 20px;
+    }
+  }
+  
+  

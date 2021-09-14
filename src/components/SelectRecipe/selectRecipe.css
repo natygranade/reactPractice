@@ -1,0 +1,17 @@
+.select-recipe-button{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end ;
+    padding-right: 0;
+}
+
+button{
+    background-color: #f0f3f8;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    color: grey;
+}
+button img{
+    margin-bottom: 3px;
+}

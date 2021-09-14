@@ -1,0 +1,8 @@
+p, .stars, .stars img{
+    display: inline-flex;
+    padding-right: 5%;
+}
+
+p{
+    margin-bottom: 0;
+}

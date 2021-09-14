@@ -1,0 +1,16 @@
+p{
+    display: inline-block;
+    padding-right: 5%;
+}
+
+.title-recipe{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f0f3f8;
+    padding: 20px;
+}
+
+.trash{
+    display: inline-block;
+    padding-left: 30%;
+}

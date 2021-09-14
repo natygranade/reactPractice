@@ -1,0 +1,16 @@
+h3{
+    padding: 20px 0;
+    font-weight: 400;
+}
+
+#photo{
+    object-fit: cover;
+    object-position: -100px 0;
+    height: 85vh;
+    border-radius: 0 0 0 50% ;
+ }
+
+.photo-container{
+    padding-left: 5%;
+}
+
